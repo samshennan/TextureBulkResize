@@ -3,7 +3,7 @@ bl_info = {
     "description": "Adds a button to resize all textures in the project and save them.",
     "author": "Sam Shennan",
     "version": (1, 0),
-    "blender": (3, 0, 0),
+    "blender": (4, 2, 0),
     "location": "View3D > Sidebar > Texture Resizer",
     "category": "Texture"
 }
