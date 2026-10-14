@@ -1,23 +1,40 @@
-# TextureBulkResize
-Blender Add-on to convert all texture images in a model all at once. Up or down in image size. 256, 512, 1024, 2k, 4k 
+TextureBulkResize
+Effortlessly Resize All Textures in Your Blender Project
+TextureBulkResize is a powerful Blender add-on designed to streamline your texture workflow. With just a few clicks, you can resize all texture images in your model simultaneously, saving you valuable time and effort.
+Key Features:
 
+Bulk Resizing: Convert all texture images in your Blender project at once.
+Flexible Resolution Options: Upscale or downscale textures to common resolutions (256px, 512px, 1024px, 2048K, 4096K).
+One-Click Saving: Easily save all modified textures with a single button press.
+Export Functionality: Export all textures (original or converted) to a location of your choice.
 
-This is a Blender Add-on that will save you time upscaling your model's textures to higher resolutions for texturing. 
-OR 
-Downscaling the images to reduce a model with 4k textures down to any size. 
+Perfect for:
 
-The preset buttons are: 
+Artists looking to prepare models for different resolutions quickly
+Game developers optimizing asset sizes
+Anyone working with multiple textures in Blender
 
-256
-512
-1024
-2048
-4096
+How It Works:
 
-You have the option to resize your images by pressing the buttons. 
-Once you do, you'll need to save them, to overwrite the files. 
+Install the add-on in Blender (4.2.0 or later).
+Find the "Texture Resizer" panel in the 3D Viewport sidebar under the "Texture" category.
+Choose your desired resolution and click to resize all textures.
+Save the changes or export the textures as needed.
 
-If you want the textures exported for use elsewhere you can also hit the export button. 
-This will prompt you in a file nav window where you want to send the textures on your computer. 
+Installation:
 
-You can export the extisting textures, or your converted ones at any stage of the process. 
+Download the TextureBulkResize.py file.
+In Blender, go to Edit > Preferences > Add-ons.
+Click "Install" and select the downloaded file.
+Enable the add-on by checking the box next to "Texture: Texture Resizer".
+
+Compatibility:
+
+Blender 4.2.0 and above
+
+Author:
+Sam Shennan
+Version:
+1.0
+
+Get TextureBulkResize now and revolutionize your texture workflow in Blender!
